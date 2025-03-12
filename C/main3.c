@@ -15,7 +15,6 @@ struct Delivery{  //Type Declaration
 //Global Variable
 struct Delivery delivery[SIZE];
 
-
 void acceptInput()
 {
     for(int i = 0; i < SIZE-1; i++){
@@ -71,6 +70,10 @@ void update(int index){
     scanf("%s", &delivery[index].deliveryDate);
 }
 
+void generate_report(int index){
+    printf("Delivery Status:%s\n", delivery[index].deliveryStatus);
+    printf("Delivery Date:%s\n", delivery[index].deliveryDate);
+}
 
 int main(){
     int choice;
@@ -80,10 +83,10 @@ int main(){
         printf("1.Add New Delivery\n");
         printf("2. View All Deliveries\n");
         printf("3. Search Delivery by ID or Customer Name\n");
-        printf("4.Update Delivery Status");
-        //printf("5. Delete Student\n");
+        printf("4.Update Delivery Status\n");
+        printf("5. Generate Delivery Report\n");
         printf("6. Exit\n");
-        printf("Enter your choice (1-5): ");
+        printf("Enter your choice (1-6): ");
         scanf("%d", &choice);
 
         switch (choice) {
@@ -91,7 +94,7 @@ int main(){
             case 2: DisplayOutput(); break;
             case 3: show(2); break;
             case 4: update(1); break;
-            //case 5: delete(1); break;
+            case 5: generate_report(1); break;
             case 6: return 0;
             default: printf("Invalid choice. Try again.\n");
 

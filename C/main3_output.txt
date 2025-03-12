@@ -1,0 +1,313 @@
+C:\Vedant Wairkar>cd c
+
+C:\Vedant Wairkar\C>main3.exe
+
+Delivery Tracking System
+=======================================
+1.Add New Delivery
+2. View All Deliveries
+3. Search Delivery by ID or Customer Name
+4.Update Delivery Status
+5. Generate Delivery Report
+6. Exit
+Enter your choice (1-5): 1
+Enter the Delivery ID:
+1
+Enter the Customer Name:
+1
+Enter the Contact Number:
+1
+Enter the Delivery Address:
+1
+Enter the Delivery Status:
+1
+Enter the Date of Delivery:
+1
+Enter the Delivery ID:
+2
+Enter the Customer Name:
+2
+Enter the Contact Number:
+2
+Enter the Delivery Address:
+2
+Enter the Delivery Status:
+2
+Enter the Date of Delivery:
+2
+Enter the Delivery ID:
+3
+Enter the Customer Name:
+3
+Enter the Contact Number:
+3
+Enter the Delivery Address:
+3
+Enter the Delivery Status:
+3
+Enter the Date of Delivery:
+3
+Enter the Delivery ID:
+4
+Enter the Customer Name:
+4
+Enter the Contact Number:
+4
+Enter the Delivery Address:
+4
+Enter the Delivery Status:
+4
+Enter the Date of Delivery:
+4
+Enter the Delivery ID:
+5
+Enter the Customer Name:
+5
+Enter the Contact Number:
+5
+Enter the Delivery Address:
+5
+Enter the Delivery Status:
+5
+Enter the Date of Delivery:
+5
+Enter the Delivery ID:
+6
+Enter the Customer Name:
+6
+Enter the Contact Number:
+6
+Enter the Delivery Address:
+6
+Enter the Delivery Status:
+6
+Enter the Date of Delivery:
+6
+Enter the Delivery ID:
+7
+Enter the Customer Name:
+7
+Enter the Contact Number:
+7
+Enter the Delivery Address:
+7
+Enter the Delivery Status:
+7
+Enter the Date of Delivery:
+7
+Enter the Delivery ID:
+8
+Enter the Customer Name:
+8
+Enter the Contact Number:
+8
+Enter the Delivery Address:
+8
+Enter the Delivery Status:
+8
+Enter the Date of Delivery:
+8
+Enter the Delivery ID:
+9
+Enter the Customer Name:
+9
+Enter the Contact Number:
+9
+Enter the Delivery Address:
+9
+Enter the Delivery Status:
+9
+Enter the Date of Delivery:
+9
+
+Delivery Tracking System
+=======================================
+1.Add New Delivery
+2. View All Deliveries
+3. Search Delivery by ID or Customer Name
+4.Update Delivery Status
+5. Generate Delivery Report
+6. Exit
+Enter your choice (1-5): 2
+Delivery ID:1
+Customer Name:1
+Contact Number:1
+Delivery Address:1
+Delivery Status:1
+Delivery Date:1
+Delivery ID:2
+Customer Name:2
+Contact Number:2
+Delivery Address:2
+Delivery Status:2
+Delivery Date:2
+Delivery ID:3
+Customer Name:3
+Contact Number:3
+Delivery Address:3
+Delivery Status:3
+Delivery Date:3
+Delivery ID:4
+Customer Name:4
+Contact Number:4
+Delivery Address:4
+Delivery Status:4
+Delivery Date:4
+Delivery ID:5
+Customer Name:5
+Contact Number:5
+Delivery Address:5
+Delivery Status:5
+Delivery Date:5
+Delivery ID:6
+Customer Name:6
+Contact Number:6
+Delivery Address:6
+Delivery Status:6
+Delivery Date:6
+Delivery ID:7
+Customer Name:7
+Contact Number:7
+Delivery Address:7
+Delivery Status:7
+Delivery Date:7
+Delivery ID:8
+Customer Name:8
+Contact Number:8
+Delivery Address:8
+Delivery Status:8
+Delivery Date:8
+Delivery ID:9
+Customer Name:9
+Contact Number:9
+Delivery Address:9
+Delivery Status:9
+Delivery Date:9
+
+Delivery Tracking System
+=======================================
+1.Add New Delivery
+2. View All Deliveries
+3. Search Delivery by ID or Customer Name
+4.Update Delivery Status
+5. Generate Delivery Report
+6. Exit
+Enter your choice (1-5): 3
+
+ Delivery Details
+Delivery ID:3
+Customer Name:3
+Contact Number:3
+Delivery Address:3
+Delivery Status:3
+Delivery Date:3
+
+Delivery Tracking System
+=======================================
+1.Add New Delivery
+2. View All Deliveries
+3. Search Delivery by ID or Customer Name
+4.Update Delivery Status
+5. Generate Delivery Report
+6. Exit
+Enter your choice (1-5): 4
+
+ Update Existing  2 Delivery Details
+Enter the Delivery ID:
+11
+Enter the Customer Name:
+11
+Enter the Contact Number:
+11
+Enter the Delivery Address:
+11
+Enter the Delivery Status:
+11
+Enter the Date of Delivery:
+11
+
+Delivery Tracking System
+=======================================
+1.Add New Delivery
+2. View All Deliveries
+3. Search Delivery by ID or Customer Name
+4.Update Delivery Status
+5. Generate Delivery Report
+6. Exit
+Enter your choice (1-5): 5
+Delivery Status:11
+Delivery Date:11
+
+Delivery Tracking System
+=======================================
+1.Add New Delivery
+2. View All Deliveries
+3. Search Delivery by ID or Customer Name
+4.Update Delivery Status
+5. Generate Delivery Report
+6. Exit
+Enter your choice (1-5): 2
+Delivery ID:1
+Customer Name:1
+Contact Number:1
+Delivery Address:1
+Delivery Status:1
+Delivery Date:1
+Delivery ID:11
+Customer Name:11
+Contact Number:11
+Delivery Address:11
+Delivery Status:11
+Delivery Date:11
+Delivery ID:3
+Customer Name:3
+Contact Number:3
+Delivery Address:3
+Delivery Status:3
+Delivery Date:3
+Delivery ID:4
+Customer Name:4
+Contact Number:4
+Delivery Address:4
+Delivery Status:4
+Delivery Date:4
+Delivery ID:5
+Customer Name:5
+Contact Number:5
+Delivery Address:5
+Delivery Status:5
+Delivery Date:5
+Delivery ID:6
+Customer Name:6
+Contact Number:6
+Delivery Address:6
+Delivery Status:6
+Delivery Date:6
+Delivery ID:7
+Customer Name:7
+Contact Number:7
+Delivery Address:7
+Delivery Status:7
+Delivery Date:7
+Delivery ID:8
+Customer Name:8
+Contact Number:8
+Delivery Address:8
+Delivery Status:8
+Delivery Date:8
+Delivery ID:9
+Customer Name:9
+Contact Number:9
+Delivery Address:9
+Delivery Status:9
+Delivery Date:9
+
+Delivery Tracking System
+=======================================
+1.Add New Delivery
+2. View All Deliveries
+3. Search Delivery by ID or Customer Name
+4.Update Delivery Status
+5. Generate Delivery Report
+6. Exit
+Enter your choice (1-5): 6
